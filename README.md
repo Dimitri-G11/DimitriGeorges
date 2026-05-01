@@ -1,4 +1,4 @@
-# DimitriGeorges
+# Dimitri Georges
 
 ### 🛠️ Sobre Mim
 - 👨‍💻 **Full-stack Developer** focado em sistemas escaláveis e de alta performance.
